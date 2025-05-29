@@ -1,12 +1,43 @@
-# React + Vite
+React Movie DB Project
+This project is a web application built with React for browsing movie information. It utilizes Vite for a fast development experience, Tailwind CSS for styling, and Appwrite as a backend service.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+✨ Features
+Search capabilities
 
-Currently, two official plugins are available:
+Trending section based on most popular searches among users.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Modern and responsive UI built with Tailwind CSS.
 
-## Expanding the ESLint configuration
+Fast and efficient development environment powered by Vite.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🛠️ Tech Stack
+Frontend:
+
+React (v19.1.0)
+
+Vite (v6.3.5)
+
+Tailwind CSS (v4.1.8)
+
+react-use (v17.6.0) - A collection of useful React hooks.
+
+Backend:
+
+Appwrite (v18.1.1) - Used for backend database services.
+
+Development Tools:
+
+ESLint (v9.25.0) - For code linting and maintaining code quality.
+
+eslint-plugin-react-hooks
+
+eslint-plugin-react-refresh
+
+🚀 Getting Started
+Prerequisites
+Make sure you have the following installed on your system:
+
+Node.js (LTS version recommended)
+
+npm (comes with Node.js) or yarn
+
